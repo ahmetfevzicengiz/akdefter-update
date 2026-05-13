@@ -1,1 +1,1 @@
-1.0.1|https://github.com/ahmetfevzicengiz/akdefter-update/releases/download/v1.0.1/AkDefter_Kurulum.exe
+1.0.2|https://github.com/ahmetfevzicengiz/akdefter-update/releases/download/v1.0.2/AkDefter_Kurulum.exe
